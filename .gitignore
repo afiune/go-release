@@ -1,0 +1,8 @@
+# because mac
+.DS_Store
+
+# vim
+*.swp
+
+# for building binaries
+bin/
